@@ -10,8 +10,3 @@ A scalable, full-stack backend system for managing restaurant operations, built 
 * **Dockerized**: Fully containerized for instant local development and production deployment.
 
 ## 🚀 Quick Start (Docker)
-
-1. **Clone the repo**
-   ```bash
-   git clone [https://github.com/yourusername/restaurant-management.git](https://github.com/yourusername/restaurant-management.git)
-   cd restaurant-management
